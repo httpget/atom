@@ -68,4 +68,5 @@ return function(node)
             break
         end
     end
+    return output_str
 end
